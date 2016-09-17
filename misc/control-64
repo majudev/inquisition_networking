@@ -1,0 +1,9 @@
+Package: libnetquisition
+Version: 1.0
+Section: libs
+Architecture: amd64
+Multi-Arch: same
+Depends: libinquisition:amd64
+Maintainer: Maju <maju@majudev.net>
+Description: The Client-Server C++ networking library with InquisitionCipher support.
+Homepage: http://majudev.net/inquisition_cipher

@@ -1,0 +1,8 @@
+Package: libnetquisition-dev
+Version: 1.0
+Section: libdevel
+Architecture: all
+Depends: libnetquisition, libinquisition-dev
+Maintainer: Maju <maju@majudev.net>
+Description: The Client-Server C++ networking library with InquisitionCipher support - header files.
+Homepage: http://majudev.net/inquisition_cipher
